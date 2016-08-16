@@ -1,4 +1,4 @@
-This is a binary editor for R2K load modules
+This is a binary editor for R2000 load modules
 
 Command Line:
 
