@@ -10,9 +10,9 @@ Once the file has been loaded, the program begins printing reading editing comma
 
     section[n] >
     
-where section is the (lowercase) name of the current section, n is the sequence number of the command being entered (beginning at 1), and there is a single space immediately before the > prompt character.
+Where section is the (lowercase) name of the current section, n is the sequence number of the command being entered (beginning at 1), and there is a single space immediately before the > prompt character.
 
-Your program must accept the following commands from the standard input:
+The program accepts the following commands from the standard input:
     
     quit
     size
