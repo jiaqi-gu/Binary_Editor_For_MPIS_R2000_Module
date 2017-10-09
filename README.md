@@ -1,4 +1,4 @@
-This is a binary editor for R2000 object and load modules.
+This is a binary editor for MIPS R2000 object and load modules.
 
 To run the program:
 
