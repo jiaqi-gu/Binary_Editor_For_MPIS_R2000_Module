@@ -21,10 +21,16 @@ The program accepts the following commands from the standard input:
     A[,N][:T][=V]
 
 name	A lowercase section name (text, data, etc.)
+
 [ ]	Enclose an optional component
+
 A	An address within the current section
+
 N	A count
+
 T	A type (b, h, w)
+
 V	A replacement value
+
 
 ![alt tag](https://raw.githubusercontent.com/qyqzyd/R2000_Module_Editor/master/R2K_img.png)
